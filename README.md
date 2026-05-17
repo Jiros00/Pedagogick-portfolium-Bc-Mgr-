@@ -1,7 +1,5 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+Pedagogické portfolio
+Bakalářské studium
+Ondřej Jiroš (D25862)
+Katedra technické a informační výchovy
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
